@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/swat14359mishra" target="blank"><img src="https://img.shields.io/twitter/follow/swat14359mishra?logo=twitter&style=for-the-badge" alt="swat14359mishra" /></a> </p>
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently Exploring **Data Science(ML) Field**
 
 - 📫 How to reach me **mswat14361@gmail.com**
 
