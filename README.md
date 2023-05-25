@@ -1,9 +1,9 @@
 ### Hi there 👋, This side Swatantra Mishra
-#### Learning ML
+#### Learning ML and Web3 
 
 
 
-Skills: PYTHON(flask,numpy,pandas,matplotlib,seaborn,bokeh,plotly)/Statistcs/C++/ HTML / CSS
+
 
  
 
