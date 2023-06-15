@@ -1,5 +1,7 @@
-### Hi there 👋, This side Swatantra Mishra
-#### Learning Web3 
+### Hi there 👋, This side Swatantra!
+#### Learning Web3 and AR development
+#### wanna deep dive into open source
+#### Open for community and collaboration
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swatantra-m-27b64b242) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itSwatantra) 
