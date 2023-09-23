@@ -1,5 +1,5 @@
 ### Hi there 👋, This side Swatantra!
-#### Learning Web3 and AR development
+#### Learning Web2 and web3 development
 #### wanna deep dive into open source
 #### Open for community and collaboration
 
