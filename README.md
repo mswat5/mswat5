@@ -1,6 +1,5 @@
 ### Hi there 👋, This side Swatantra!
-#### Learning Web2 and web3 development
-#### wanna deep dive into open source
+#### Full Stack developer
 #### Open for community and collaboration
 
 ## 🌐 Socials:
