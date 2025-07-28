@@ -7,9 +7,11 @@
 
 ###
 
-<div align="center">
- <img src="https://visitcount.itsvg.in/api?id=mswat5&label=Profile%20Views&color=0&icon=1&pretty=true" /> 
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mswat5&label=Profile%20views&color=0e75b6&style=flat" alt="mswat5" />
+</p>
+
 
 ###
 
