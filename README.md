@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">Student Developer | Full Stack Engineer | Backend | System Design </p>
+<p align="center">Student Developer | Full Stack Engineer | React Native | Backend | System Design </p>
 
 ###
 
